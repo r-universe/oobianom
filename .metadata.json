@@ -1,0 +1,14 @@
+[
+  {
+    "package": "r2dictionary",
+    "oncran": true
+  },
+  {
+    "package": "r2shortcode",
+    "oncran": true
+  },
+  {
+    "package": "r2symbols",
+    "oncran": true
+  }
+]
