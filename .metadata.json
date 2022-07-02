@@ -10,5 +10,9 @@
   {
     "package": "r2symbols",
     "oncran": true
+  },
+  {
+    "package": "sciRmdTheme",
+    "oncran": true
   }
 ]

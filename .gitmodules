@@ -18,3 +18,8 @@
 	url = https://github.com/oobianom/r2symbols
 	shallow = true
 	registered = true
+[submodule "sciRmdTheme"]
+	path = sciRmdTheme
+	url = https://github.com/oobianom/scirmdtheme
+	shallow = true
+	registered = true
