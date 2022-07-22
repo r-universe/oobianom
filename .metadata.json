@@ -1,5 +1,9 @@
 [
   {
+    "package": "nextGenShinyApps",
+    "oncran": true
+  },
+  {
     "package": "r2dictionary",
     "oncran": true
   },
