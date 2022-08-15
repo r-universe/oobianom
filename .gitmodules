@@ -28,3 +28,8 @@
 	url = https://github.com/oobianom/scirmdtheme
 	shallow = true
 	registered = true
+[submodule "shinyStorePlus"]
+	path = shinyStorePlus
+	url = https://github.com/oobianom/shinystoreplus
+	shallow = true
+	registered = true

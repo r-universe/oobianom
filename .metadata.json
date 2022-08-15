@@ -18,5 +18,9 @@
   {
     "package": "sciRmdTheme",
     "oncran": true
+  },
+  {
+    "package": "shinyStorePlus",
+    "oncran": true
   }
 ]
