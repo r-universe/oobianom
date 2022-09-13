@@ -13,6 +13,11 @@
 	url = https://github.com/oobianom/r2dictionary
 	shallow = true
 	registered = true
+[submodule "r2resize"]
+	path = r2resize
+	url = https://github.com/oobianom/r2resize
+	shallow = true
+	registered = true
 [submodule "r2shortcode"]
 	path = r2shortcode
 	url = https://github.com/oobianom/r2shortcode

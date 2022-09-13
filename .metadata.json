@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "r2resize",
+    "oncran": true
+  },
+  {
     "package": "r2shortcode",
     "oncran": true
   },
