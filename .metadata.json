@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "r2social",
+    "oncran": true
+  },
+  {
     "package": "r2symbols",
     "oncran": true
   },

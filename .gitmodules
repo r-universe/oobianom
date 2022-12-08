@@ -23,6 +23,11 @@
 	url = https://github.com/oobianom/r2shortcode
 	shallow = true
 	registered = true
+[submodule "r2social"]
+	path = r2social
+	url = https://github.com/oobianom/r2social
+	shallow = true
+	registered = true
 [submodule "r2symbols"]
 	path = r2symbols
 	url = https://github.com/oobianom/r2symbols
