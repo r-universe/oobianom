@@ -1,5 +1,9 @@
 [
   {
+    "package": "nextGenShinyApps",
+    "oncran": true
+  },
+  {
     "package": "r2dictionary",
     "oncran": true
   },
@@ -8,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "r2symbols",
+    "package": "r2shortcode",
     "oncran": true
   },
   {
@@ -16,11 +20,7 @@
     "oncran": true
   },
   {
-    "package": "nextGenShinyApps",
-    "oncran": true
-  },
-  {
-    "package": "r2shortcode",
+    "package": "r2symbols",
     "oncran": true
   },
   {

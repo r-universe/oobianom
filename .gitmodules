@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nextGenShinyApps"]
+	path = nextGenShinyApps
+	url = https://github.com/oobianom/nextgenshinyapps
+	shallow = true
+	registered = true
 [submodule "r2dictionary"]
 	path = r2dictionary
 	url = https://github.com/oobianom/r2dictionary
@@ -13,9 +18,9 @@
 	url = https://github.com/oobianom/r2resize
 	shallow = true
 	registered = true
-[submodule "r2symbols"]
-	path = r2symbols
-	url = https://github.com/oobianom/r2symbols
+[submodule "r2shortcode"]
+	path = r2shortcode
+	url = https://github.com/oobianom/r2shortcode
 	shallow = true
 	registered = true
 [submodule "r2social"]
@@ -23,14 +28,9 @@
 	url = https://github.com/oobianom/r2social
 	shallow = true
 	registered = true
-[submodule "nextGenShinyApps"]
-	path = nextGenShinyApps
-	url = https://github.com/oobianom/nextgenshinyapps
-	shallow = true
-	registered = true
-[submodule "r2shortcode"]
-	path = r2shortcode
-	url = https://github.com/oobianom/r2shortcode
+[submodule "r2symbols"]
+	path = r2symbols
+	url = https://github.com/oobianom/r2symbols
 	shallow = true
 	registered = true
 [submodule "sciRmdTheme"]
