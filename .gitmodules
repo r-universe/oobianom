@@ -43,3 +43,8 @@
 	url = https://github.com/oobianom/shinystoreplus
 	shallow = true
 	registered = true
+[submodule "symbol.equation.gpt"]
+	path = symbol.equation.gpt
+	url = https://github.com/oobianom/symbol.equation.gpt
+	shallow = true
+	registered = true
