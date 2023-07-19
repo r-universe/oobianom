@@ -5,6 +5,9 @@
 [submodule "nextGenShinyApps"]
 	path = nextGenShinyApps
 	url = https://github.com/oobianom/nextgenshinyapps
+[submodule "quickcode"]
+	path = quickcode
+	url = https://github.com/oobianom/quickcode
 [submodule "r2dictionary"]
 	path = r2dictionary
 	url = https://github.com/oobianom/r2dictionary
