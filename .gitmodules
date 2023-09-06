@@ -8,6 +8,9 @@
 [submodule "quickcode"]
 	path = quickcode
 	url = https://github.com/oobianom/quickcode
+[submodule "r2country"]
+	path = r2country
+	url = https://github.com/oobianom/r2country
 [submodule "r2dictionary"]
 	path = r2dictionary
 	url = https://github.com/oobianom/r2dictionary
