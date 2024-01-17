@@ -14,6 +14,9 @@
 [submodule "r2dictionary"]
 	path = r2dictionary
 	url = https://github.com/oobianom/r2dictionary
+[submodule "r2fireworks"]
+	path = r2fireworks
+	url = https://github.com/oobianom/r2fireworks
 [submodule "r2resize"]
 	path = r2resize
 	url = https://github.com/oobianom/r2resize
@@ -29,6 +32,9 @@
 [submodule "sciRmdTheme"]
 	path = sciRmdTheme
 	url = https://github.com/oobianom/scirmdtheme
+[submodule "scientific"]
+	path = scientific
+	url = https://github.com/oobianom/scientific
 [submodule "shinyStorePlus"]
 	path = shinyStorePlus
 	url = https://github.com/oobianom/shinystoreplus
