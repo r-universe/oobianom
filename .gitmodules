@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "card.pro"]
+	path = card.pro
+	url = https://github.com/oobianom/card.pro
 [submodule "nextGenShinyApps"]
 	path = nextGenShinyApps
 	url = https://github.com/oobianom/nextgenshinyapps
